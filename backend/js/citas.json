@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Luna",
+    "edad": "2 meses",
+    "animal": "gato",
+    "color": "blanco",
+    "enfermedad": "pulgas"
+  },
+  {
+    "nombre": "Lola",
+    "edad": "5 años",
+    "animal": "perros",
+    "color": "negro",
+    "enfermedad": "sarna"
+  },
+  {
+    "nombre": "Tomy",
+    "edad": "5 años",
+    "animal": "ardilla",
+    "color": "cafe",
+    "enfermedad": "pie"
+  },
+  {
+    "nombre": "Chuchu",
+    "edad": "1 años",
+    "animal": "tortuga",
+    "color": "verde",
+    "enfermedad": "infeccion"
+  }
+]
